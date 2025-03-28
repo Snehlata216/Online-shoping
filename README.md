@@ -1,6 +1,6 @@
 # online-shopping-webvsite-in-php
 
-Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
+Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to run your online store.
 
 The basic concept of the application is to allow the customer to shop virtually using the Internet and allow customers to buy the items and articles of their desire from the store.
 
@@ -27,7 +27,7 @@ Food items etc.
 Brief overview of the technology
  
 
-HTML: HTML is used to create and save webdocument. E.g. Notepad/Notepad++
+HTML: HTML is used to create and save webdocument. 
 CSS : (Cascading Style Sheets) Create attractiveLayout
 JavaScript: it is a programming language,commonly use with web browsers.
 Back end: PHP, MySQL
@@ -42,19 +42,5 @@ WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
-Installation Steps
-Download zip file and Unzip file on your local server.
-Put this file inside “c:/wamp/www/” .
-Database Configuration:
-Open phpmyadmin
-Create Database named “shop”.
-Import database shop.sql.
-Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
-user login details:
-Login Id: yugeshverma@gmail.com
-Password:123456
 
 
-visit- https://projkectworlds.in
